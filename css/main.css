@@ -2893,7 +2893,7 @@ textarea {
     left: 0;
     right: 0;
     z-index: 10000;
-    background-color: transparent; } }
+    background-color: rgb(255, 255, 255); } }
 
 .header-one {
   background-color: #fff; }
@@ -3321,7 +3321,7 @@ textarea {
 
 /* 18 Sub Header */
 .sub-header {
-  background-image: url("../images/sub-header-bg.jpg");
+  background-image: url("../1x/1x/Recurso\ 2.png");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
